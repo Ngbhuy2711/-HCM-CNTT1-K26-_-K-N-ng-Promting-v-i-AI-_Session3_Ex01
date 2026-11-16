@@ -58,7 +58,7 @@ Ví dụ mẫu 2:
 
 Input Email:
 
-Hi HR team, Em là Lê Thị Thu Hương. Em vừa tốt nghiệp và muốn ứng tuyển vị trí Fresher Data Analyst. Email liên hệ: huong.ltt@outlook.com. Em có biết về Python, Excel, SQL và Python.
+Hi HR team, Em là Lê Thị Thu Hương. Em vừa tốt nghiệp và muốn ứng tuyển vị trí Fresher Data Analyst. Email liên hệ: huongxinkzai@outlook.com. Em có biết về Python, Excel, SQL và Python.
 
 Output Mong Muốn:
 
