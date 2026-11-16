@@ -29,7 +29,7 @@ Họ tên	Trần Văn Nam
 
 Số điện thoại	0912345678
 
-Email	nam.tv@gmail.com
+Email	namdepzai123@gmail.com
 
 Vị trí ứng tuyển	Backend Developer
 
@@ -45,7 +45,7 @@ JSON
   
   "phone": "0912345678",
   
-  "email": "nam.tv@gmail.com",
+  "email": "namdepzai123@gmail.com",
   
   "position": "Backend Developer",
   
@@ -69,7 +69,7 @@ Họ tên	Lê Thị Thu Hương
 
 Số điện thoại	null
 
-Email	huong.ltt@outlook.com
+Email	huongxinkzai@outlook.com
 
 Vị trí ứng tuyển	Fresher Data Analyst
 
@@ -85,7 +85,7 @@ JSON
   
   "phone": null,
   
-  "email": "huong.ltt@outlook.com",
+  "email": "huongxinkzai@outlook.com",
   
   "position": "Fresher Data Analyst",
   
