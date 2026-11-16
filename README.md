@@ -24,20 +24,35 @@ Nội dung: Chào bộ phận HR, mình là trần văn nam, sđt: 0912 345 678,
 Output Mong Muốn:
 
 Trường thông tin	Giá trị trích xuất
+
 Họ tên	Trần Văn Nam
+
 Số điện thoại	0912345678
+
 Email	nam.tv@gmail.com
+
 Vị trí ứng tuyển	Backend Developer
+
 Năm kinh nghiệm	3
+
 Kỹ năng chính	Python, Django, SQL, Git
+
 JSON
+
 {
+
   "name": "Trần Văn Nam",
+  
   "phone": "0912345678",
+  
   "email": "nam.tv@gmail.com",
+  
   "position": "Backend Developer",
+  
   "experience_years": 3,
+  
   "skills": ["Python", "Django", "SQL", "Git"]
+
 }
 Ví dụ mẫu 2:
 
@@ -47,19 +62,34 @@ Hi HR team, Em là Lê Thị Thu Hương. Em vừa tốt nghiệp và muốn ứ
 
 Output Mong Muốn:
 
+
 Trường thông tin	Giá trị trích xuất
+
 Họ tên	Lê Thị Thu Hương
+
 Số điện thoại	null
+
 Email	huong.ltt@outlook.com
+
 Vị trí ứng tuyển	Fresher Data Analyst
+
 Năm kinh nghiệm	null
+
 Kỹ năng chính	Python, Excel, SQL
+
 JSON
+
 {
+
   "name": "Lê Thị Thu Hương",
+  
   "phone": null,
+  
   "email": "huong.ltt@outlook.com",
+  
   "position": "Fresher Data Analyst",
+  
   "experience_years": null,
+  
   "skills": ["Python", "Excel", "SQL"]
 }
